@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51448",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\rafit\\Escritorio\\dev\\NET\\MSW\\Muebleria\\Muebleria.Server\\..\\muebleria.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

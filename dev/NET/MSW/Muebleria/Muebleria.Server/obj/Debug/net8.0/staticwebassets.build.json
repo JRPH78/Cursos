@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "mA1tUBrC9EAFBxZhrtRsbTU8Jxq2eZDrMfx84JjuPmk=",
+  "Source": "Muebleria.Server",
+  "BasePath": "_content/Muebleria.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\rafit\\Escritorio\\dev\\NET\\MSW\\Muebleria\\muebleria.client\\muebleria.client.esproj",
+      "Version": 2,
+      "Source": "muebleria.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
