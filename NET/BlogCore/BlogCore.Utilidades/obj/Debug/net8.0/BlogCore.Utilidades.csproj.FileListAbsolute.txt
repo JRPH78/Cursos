@@ -1,0 +1,12 @@
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.deps.json
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.sourcelink.json
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll

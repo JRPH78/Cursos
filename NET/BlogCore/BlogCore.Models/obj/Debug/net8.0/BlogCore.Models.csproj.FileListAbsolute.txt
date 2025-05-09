@@ -1,0 +1,12 @@
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll

@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640B48EE-BCF3-42F2-8BAE-BB095E70817D}|BlogCore.Models\\BlogCore.Models.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore.models\\blogcore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{640B48EE-BCF3-42F2-8BAE-BB095E70817D}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\blogcore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9DE816-84A8-40D9-A6B0-6725A2EBF436}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore.accesodatos\\blogcore.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F9DE816-84A8-40D9-A6B0-6725A2EBF436}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\blogcore.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,28 +46,107 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Program.cs",
               "RelativeDocumentMoniker": "BlogCore\\Program.cs",
               "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Program.cs",
               "RelativeToolTip": "BlogCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:55:43.671Z",
+              "WhenOpened": "2025-05-09T23:35:04.284Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\appsettings.json",
-              "RelativeDocumentMoniker": "BlogCore\\appsettings.json",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\appsettings.json",
-              "RelativeToolTip": "BlogCore\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T21:51:09.888Z",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T23:49:26.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T23:44:09.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogCore.AccesoDatos",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T23:42:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogCore.Models",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+              "RelativeDocumentMoniker": "BlogCore.Models\\BlogCore.Models.csproj",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+              "RelativeToolTip": "BlogCore.Models\\BlogCore.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T23:41:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T23:39:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T23:38:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:23:26.445Z",
               "EditorCaption": ""
             }
           ]
