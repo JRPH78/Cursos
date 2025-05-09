@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jeiQ6HKslM=",
+  "dgSpecHash": "A2whyZ9Q0rc=",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
+  "projectFilePath": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSW DEVELOPER\\.nuget\\packages\\automapper\\8.1.0\\automapper.8.1.0.nupkg.sha512",
     "C:\\Users\\MSW DEVELOPER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

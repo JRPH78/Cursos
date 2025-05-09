@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj": {}
+    "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj": {
+    "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
+        "projectUniqueName": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
         "projectName": "Muebleria.Server",
-        "projectPath": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
+        "projectPath": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
         "packagesPath": "C:\\Users\\MSW DEVELOPER\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\obj\\",
+        "outputPath": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

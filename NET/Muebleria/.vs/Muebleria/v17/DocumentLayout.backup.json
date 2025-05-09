@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Proyectos\\CURSOS\\Muebleria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\data_entities\\catalogoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\data_entities\\catalogoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\muebleria\\muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Program.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Program.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CatalogoEntity.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ICatalogoService.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Services\\ICatalogoService.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Services\\ICatalogoService.cs",
@@ -68,11 +68,12 @@
               "RelativeToolTip": "Muebleria.Server\\Services\\ICatalogoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:17:19.377Z"
+              "WhenOpened": "2025-05-07T16:17:19.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CatalogoService.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
@@ -80,11 +81,12 @@
               "RelativeToolTip": "Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAiwEEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:01:35.764Z"
+              "WhenOpened": "2025-05-06T20:01:35.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CatalogoController.cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\Muebleria\\Muebleria.Server\\Controllers\\CatalogoController.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Controllers\\CatalogoController.cs",
