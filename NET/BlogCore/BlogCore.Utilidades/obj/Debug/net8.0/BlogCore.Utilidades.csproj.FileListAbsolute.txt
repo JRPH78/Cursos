@@ -10,3 +10,15 @@ C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.U
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.deps.json
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.sourcelink.json
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
