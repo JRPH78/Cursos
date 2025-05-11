@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\Boostrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\Boostrap5.min.css"
+    },
+    {
       "Id": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
