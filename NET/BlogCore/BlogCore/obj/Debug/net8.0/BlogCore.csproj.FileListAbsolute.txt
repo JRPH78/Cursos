@@ -271,9 +271,6 @@ C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win\lib\net7
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Models.dll
 C:\Proyectos\CURSOS\NET\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.dll
