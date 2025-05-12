@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:51014",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\..\\muebleria.client",
+"WorkingDirectory": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\..\\muebleria.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

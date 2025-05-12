@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\",
+  "WorkspaceRootPath": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\implementation\\catalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\services\\icatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\data_entities\\catalogoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\data_entities\\catalogoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\data_entities\\catalogoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\proyectos\\cursos\\net\\muebleria\\muebleria.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|c:\\users\\rafit\\escritorio\\cursos\\net\\muebleria\\muebleria.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F83CD-ACA8-4FCE-8B5B-3E13FC12DB26}|Muebleria.Server\\Muebleria.Server.csproj|solutionrelative:muebleria.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Program.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Program.cs",
               "RelativeToolTip": "Muebleria.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,12 +50,16 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\appsettings.json",
               "RelativeDocumentMoniker": "Muebleria.Server\\appsettings.json",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\appsettings.json",
               "RelativeToolTip": "Muebleria.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -66,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CatalogoEntity.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
               "RelativeToolTip": "Muebleria.Server\\Data_Entities\\CatalogoEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ICatalogoService.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Services\\ICatalogoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Services\\ICatalogoService.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Services\\ICatalogoService.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Services\\ICatalogoService.cs",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Services\\ICatalogoService.cs",
               "RelativeToolTip": "Muebleria.Server\\Services\\ICatalogoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CatalogoService.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
               "RelativeToolTip": "Muebleria.Server\\Services\\Implementation\\CatalogoService.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwEEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,14 +106,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CatalogoController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Controllers\\CatalogoController.cs",
+              "DocumentMoniker": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Controllers\\CatalogoController.cs",
               "RelativeDocumentMoniker": "Muebleria.Server\\Controllers\\CatalogoController.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\Muebleria\\Muebleria.Server\\Controllers\\CatalogoController.cs",
+              "ToolTip": "C:\\Users\\rafit\\Escritorio\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Controllers\\CatalogoController.cs",
               "RelativeToolTip": "Muebleria.Server\\Controllers\\CatalogoController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T22:53:16.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T22:53:16.209Z"
             }
           ]
         }
