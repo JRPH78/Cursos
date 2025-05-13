@@ -1,4 +1,4 @@
-﻿var dataTable;
+﻿let dataTable;
 
 $(document).ready(function () {
     cargarDatatable();
@@ -24,7 +24,7 @@ function cargarDatatable() {
                                 <i class="far fa-edit"></i> Editar
                                 </a>
                                 &nbsp;
-                                <a onclick=Delete("/Admin/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:140px;">
+                                <a onclick="Delete('/Admin/Categorias/Delete/${data}')" class="btn btn-danger text-white" style="cursor:pointer; width:140px;">
                                 <i class="far fa-trash-alt"></i> Borrar
                                 </a>
                           </div>
@@ -57,27 +57,35 @@ function cargarDatatable() {
 }
 
 function Delete(url) {
-    swal({
-        title: "Esta seguro de borrar?",
-        text: "Este contenido no se puede recuperar!",
-        type: "warning",
+    Swal.fire({
+        title: "¿Estás seguro de borrar?",
+        text: "¡Este contenido no se puede recuperar!",
+        icon: "warning",
         showCancelButton: true,
         confirmButtonColor: "#DD6B55",
-        confirmButtonText: "Si, borrar!",
-        closeOnconfirm: true
-    }, function () {
-        $.ajax({
-            type: 'DELETE',
-            url: url,
-            success: function (data) {
-                if (data.success) {
-                    toastr.success(data.message);
-                    dataTable.ajax.reload();
+        cancelButtonColor: "#3085d6",
+        confirmButtonText: "Sí, borrar",
+        cancelButtonText: "Cancelar"
+    }).then((result) => {
+        if (result.isConfirmed) {
+            $.ajax({
+                type: 'DELETE',
+                url: url,
+                success: function (data) {
+                    if (data.success) {
+                        toastr.success(data.message);
+                        dataTable.ajax.reload(null, false);
+                        console.log("Tabla recargada");
+
+
+                    } else {
+                        toastr.error(data.message);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    toastr.error("Error al borrar: " + error);
                 }
-                else {
-                    toastr.error(data.message);
-                }
-            }
-        });
+            });
+        }
     });
 }

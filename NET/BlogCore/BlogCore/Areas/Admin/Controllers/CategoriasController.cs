@@ -73,12 +73,12 @@ namespace BlogCore.Areas.Admin.Controllers
             var objfromDb = _contenedorTrabajo.Categoria.Get(id);
             if (objfromDb==null)
             {
-                return Json(new { succes = false, message = "Error borrando categoria" });
+                return Json(new { success = false, message = "Error borrando categoria" });
 
             }
             _contenedorTrabajo.Categoria.Remove(objfromDb);
             _contenedorTrabajo.Save();
-            return Json(new { succes = false, message = "Categoria borrada correctamente" });
+            return Json(new { success = true, message = "Categoria borrada correctamente" });
 
 
         }
