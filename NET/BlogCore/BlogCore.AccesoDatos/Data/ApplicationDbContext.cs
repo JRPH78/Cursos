@@ -11,6 +11,9 @@ namespace BlogCore.Data
         {
         }
 
+        //aqui se declaran las tablas o modelos que hemos creado
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Articulo> Articulo { get; set; }
+
     }
 }

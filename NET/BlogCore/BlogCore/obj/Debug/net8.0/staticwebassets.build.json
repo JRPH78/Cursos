@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gsGAgnKAqLd+NZOshun7Mx+bSSDjhTyyTNF1pIosguo=",
+  "Hash": "q+530gzX6bBBTRzVHtM03tw4IyCm0lxKKk3Z5He96f0=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/articulo#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5rvlx4bc9y",
+      "Integrity": "AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\articulo.js"
+    },
+    {
       "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3zkgyr0a0b",
-      "Integrity": "L/ys/oCb6QtojB5kzVlM3tb1YDprrGyVMkO+NwwX1o8=",
+      "Fingerprint": "g4q1x1pbwy",
+      "Integrity": "gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
@@ -5171,8 +5192,8 @@
       ]
     },
     {
-      "Route": "js/categoria.3zkgyr0a0b.js",
-      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Route": "js/articulo.5rvlx4bc9y.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5181,7 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3266"
+          "Value": "3281"
         },
         {
           "Name": "Content-Type",
@@ -5189,11 +5210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L/ys/oCb6QtojB5kzVlM3tb1YDprrGyVMkO+NwwX1o8=\""
+          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:09:18 GMT"
+          "Value": "Tue, 13 May 2025 18:55:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5203,7 +5224,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3zkgyr0a0b"
+          "Value": "5rvlx4bc9y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/articulo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/articulo.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.g4q1x1pbwy.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 17:14:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4q1x1pbwy"
         },
         {
           "Name": "label",
@@ -5211,7 +5314,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L/ys/oCb6QtojB5kzVlM3tb1YDprrGyVMkO+NwwX1o8="
+          "Value": "sha256-gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE="
         }
       ]
     },
@@ -5226,7 +5329,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3266"
+          "Value": "3222"
         },
         {
           "Name": "Content-Type",
@@ -5234,11 +5337,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L/ys/oCb6QtojB5kzVlM3tb1YDprrGyVMkO+NwwX1o8=\""
+          "Value": "\"gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:09:18 GMT"
+          "Value": "Tue, 13 May 2025 17:14:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5248,7 +5351,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L/ys/oCb6QtojB5kzVlM3tb1YDprrGyVMkO+NwwX1o8="
+          "Value": "sha256-gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE="
         }
       ]
     },
