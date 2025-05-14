@@ -2469,53 +2469,8 @@
       ]
     },
     {
-      "Route": "js/articulo.5rvlx4bc9y.js",
-      "AssetFile": "js/articulo.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3281"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 18:55:32 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5rvlx4bc9y"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
-        },
-        {
-          "Name": "label",
-          "Value": "js/articulo.js"
-        }
-      ]
-    },
-    {
-      "Route": "js/articulo.js",
-      "AssetFile": "js/articulo.js",
+      "Route": "js/articulos.js",
+      "AssetFile": "js/articulos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2528,7 +2483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3281"
+          "Value": "3289"
         },
         {
           "Name": "Content-Type",
@@ -2536,23 +2491,68 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
+          "Value": "\"DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 18:55:32 GMT"
+          "Value": "Wed, 14 May 2025 17:49:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
+          "Value": "sha256-DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48="
         }
       ]
     },
     {
-      "Route": "js/categoria.g4q1x1pbwy.js",
-      "AssetFile": "js/categoria.js",
+      "Route": "js/articulos.o5o3jui6f4.js",
+      "AssetFile": "js/articulos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 17:49:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5o3jui6f4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48="
+        },
+        {
+          "Name": "label",
+          "Value": "js/articulos.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/categorias.g4q1x1pbwy.js",
+      "AssetFile": "js/categorias.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2577,7 +2577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:14:30 GMT"
+          "Value": "Wed, 14 May 2025 17:30:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2591,13 +2591,13 @@
         },
         {
           "Name": "label",
-          "Value": "js/categoria.js"
+          "Value": "js/categorias.js"
         }
       ]
     },
     {
-      "Route": "js/categoria.js",
-      "AssetFile": "js/categoria.js",
+      "Route": "js/categorias.js",
+      "AssetFile": "js/categorias.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2622,7 +2622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:14:30 GMT"
+          "Value": "Wed, 14 May 2025 17:30:07 GMT"
         }
       ],
       "EndpointProperties": [

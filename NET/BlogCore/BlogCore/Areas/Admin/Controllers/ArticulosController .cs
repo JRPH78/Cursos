@@ -1,5 +1,6 @@
 ﻿using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Models;
+using BlogCore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using NuGet.Protocol.Plugins;
 
@@ -24,19 +25,25 @@ namespace BlogCore.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Create() 
         {
-            return View();
+            ArticuloVM artiVM = new ArticuloVM()
+            {
+                Articulo = new BlogCore.Models.Articulo(),
+                ListaCategorias = _contenedorTrabajo.Categoria.GetListaCategorias()
+            };
+            return View(artiVM);
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Categoria categoria)
+        public IActionResult Create(Articulo articulo)
         {
             if (ModelState.IsValid)
             {
-                _contenedorTrabajo.Categoria.Add(categoria);
+                _contenedorTrabajo.Articulo.Add(articulo);
                 _contenedorTrabajo.Save();
                 return RedirectToAction("Index");
             }
-            return View(categoria);
+            return View(articulo);
         }
         [HttpGet]
         public IActionResult Edit(int id)
@@ -67,8 +74,10 @@ namespace BlogCore.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Json(new { data = _contenedorTrabajo.Articulo.GetAll() });
+            return Json(new { data = _contenedorTrabajo.Articulo.GetAll(includeProperties:"Categoria") });
         }
+
+        [HttpDelete]
         public IActionResult Delete(int id)
         {
             var objfromDb = _contenedorTrabajo.Categoria.Get(id);

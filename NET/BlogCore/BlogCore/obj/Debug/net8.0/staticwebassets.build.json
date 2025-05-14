@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q+530gzX6bBBTRzVHtM03tw4IyCm0lxKKk3Z5He96f0=",
+  "Hash": "J/XFACNAJh9uQ7LL4VJysaoZ+zL6UFkz+zkX2izsY34=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "js/articulo#[.{fingerprint}]?.js",
+      "RelativePath": "js/articulos#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,19 +115,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5rvlx4bc9y",
-      "Integrity": "AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=",
+      "Fingerprint": "o5o3jui6f4",
+      "Integrity": "DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\articulo.js"
+      "OriginalItemSpec": "wwwroot\\js\\articulos.js"
     },
     {
-      "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categorias.js",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "js/categoria#[.{fingerprint}]?.js",
+      "RelativePath": "js/categorias#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -140,7 +140,7 @@
       "Integrity": "gBDJXL2dg62nl9WOifKbx/xErQ6nsPBT4mes4Yq6MGE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+      "OriginalItemSpec": "wwwroot\\js\\categorias.js"
     },
     {
       "Identity": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
@@ -5192,8 +5192,8 @@
       ]
     },
     {
-      "Route": "js/articulo.5rvlx4bc9y.js",
-      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
+      "Route": "js/articulos.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3281"
+          "Value": "3289"
         },
         {
           "Name": "Content-Type",
@@ -5210,56 +5210,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
+          "Value": "\"DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 18:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5rvlx4bc9y"
-        },
-        {
-          "Name": "label",
-          "Value": "js/articulo.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
-        }
-      ]
-    },
-    {
-      "Route": "js/articulo.js",
-      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3281"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 18:55:32 GMT"
+          "Value": "Wed, 14 May 2025 17:49:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5269,13 +5224,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AZUJGGPZjFByddSbqeRDJQ8ajGFwSFBc2y0A6Hp55/A="
+          "Value": "sha256-DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48="
         }
       ]
     },
     {
-      "Route": "js/categoria.g4q1x1pbwy.js",
-      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Route": "js/articulos.o5o3jui6f4.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 17:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5o3jui6f4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/articulos.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DGgcradiqowmma594obepm4lkzbv8Oyc3WZqPHgSk48="
+        }
+      ]
+    },
+    {
+      "Route": "js/categorias.g4q1x1pbwy.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categorias.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5296,7 +5296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:14:30 GMT"
+          "Value": "Wed, 14 May 2025 17:30:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5310,7 +5310,7 @@
         },
         {
           "Name": "label",
-          "Value": "js/categoria.js"
+          "Value": "js/categorias.js"
         },
         {
           "Name": "integrity",
@@ -5319,8 +5319,8 @@
       ]
     },
     {
-      "Route": "js/categoria.js",
-      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Route": "js/categorias.js",
+      "AssetFile": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\categorias.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5341,7 +5341,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 17:14:30 GMT"
+          "Value": "Wed, 14 May 2025 17:30:07 GMT"
         },
         {
           "Name": "Cache-Control",

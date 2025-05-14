@@ -1,0 +1,70 @@
+﻿@model BlogCore.Models.ViewModels.ArticuloVM
+
+@{
+    ViewData["Title"] = "Crear Articulo";
+}
+
+<br />
+<br />
+<h3 class="text-center">Crear un nuevo Articulo</h3>
+
+<form asp-action="Create" method="POST">
+    <div class="row px-2 offset-1 border">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-3 align-self-center">
+                            <label asp-for="Articulo.Nombre" class="control-label"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Articulo.Nombre" class="form-control" placeholder="Ingrese el Nombre" />
+                    <span asp-validation-for="Articulo.Nombre" class="text-danger"></span>
+                </div>        
+            </div>
+			<div class="form-group row">
+				<div class="col-3 align-self-center">
+					<label asp-for="Articulo.Descripcion" class="control-label"></label>
+				</div>
+				<div class="col-8">
+					<input asp-for="Articulo.Descripcion" class="form-control" placeholder="Ingrese la Descripcion" />
+					<span asp-validation-for="Articulo.Descripcion" class="text-danger"></span>
+				</div>
+			</div>
+
+
+            <div class="form-group row">
+                <div class="col-3 align-self-center">
+                    <label for="Categoria" class="control-label">Categoria</label>
+                </div>
+                <div class="col-8">
+
+					@Html.DropDownListFor(m => m.Articulo.CategoriaId, Model.ListaCategorias, 
+                        "Seleccione una Categoria", new { @class = "form-control" })
+                    <span asp-validation-for="Articulo.CategoriaId" class="text-danger"></span>
+
+                </div>
+            </div>
+        
+            
+
+
+        </div>
+
+        <div class="form-group row justify-content-end mt-3">
+            <div class="col-3 ">
+                <div class="row">
+                    <div class="col align-self-end">
+                        <a asp-action="Index">Volver atras</a>
+                    </div>
+                    <div class="col">
+                        <button type="submit" class="btn btn-primary form-control"> Crear</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</form>
+

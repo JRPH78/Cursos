@@ -22,3 +22,4 @@ C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\B
 C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
 C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\rafit\Escritorio\Cursos\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+C:\Proyectos\CURSOS\NET\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache

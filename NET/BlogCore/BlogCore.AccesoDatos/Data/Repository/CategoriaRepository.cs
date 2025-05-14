@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Data;
 using BlogCore.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BlogCore.AccesoDatos.Data.Repository
 {
@@ -16,6 +17,16 @@ namespace BlogCore.AccesoDatos.Data.Repository
         {
             _db = db;
         }
+
+        public IEnumerable<SelectListItem> GetListaCategorias()
+        {
+            return _db.Categorias.Select(i => new SelectListItem
+            {
+                Text = i.Nombre,
+                Value = i.Id.ToString()
+            });
+        }
+
         public void Update(Categoria categoria)
         {
             var objDesdeDb = _db.Categorias.FirstOrDefault(s => s.Id == categoria.Id);
@@ -27,5 +38,7 @@ namespace BlogCore.AccesoDatos.Data.Repository
 
             }
         }
+        
+        
     }
 }

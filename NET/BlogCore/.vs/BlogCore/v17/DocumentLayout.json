@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\wwwroot\\js\\articulo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\articulo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\controllers\\articuloscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\articuloscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|c:\\proyectos\\cursos\\net\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40EBAC78-9548-4959-A138-F5CBF59159F7}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:53:33.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T18:51:45.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "articulo.js",
-              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
-              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\articulo.js",
-              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
-              "RelativeToolTip": "BlogCore\\wwwroot\\js\\articulo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-13T18:50:43.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ArticulosController .cs",
               "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController .cs",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController .cs",
               "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController .cs",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:44:55.566Z"
+              "WhenOpened": "2025-05-13T18:44:55.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:52:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:52:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T18:49:26.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,9 +97,23 @@
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
               "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T18:46:47.769Z"
+              "WhenOpened": "2025-05-14T18:49:12.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
+              "ToolTip": "C:\\Proyectos\\CURSOS\\NET\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T17:50:11.619Z",
+              "EditorCaption": ""
             }
           ]
         }
