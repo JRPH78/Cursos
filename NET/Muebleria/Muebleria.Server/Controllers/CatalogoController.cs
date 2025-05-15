@@ -22,6 +22,8 @@ namespace Muebleria.Server.Controllers
         {
             return StatusCode(201, await _catalogoService.CreateCatalogoAsync(requestModel));
         }
+
+
         [HttpGet("GetCatalogo")]
         public async Task<IActionResult> Get()
         {
