@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:50663",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Proyectos\\CURSOS\\NET\\organigrama\\organigrama.Server\\..\\organigrama.client",
+"WorkingDirectory": "C:\\Proyectos\\Cursos\\NET\\organigrama\\organigrama.Server\\..\\organigrama.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

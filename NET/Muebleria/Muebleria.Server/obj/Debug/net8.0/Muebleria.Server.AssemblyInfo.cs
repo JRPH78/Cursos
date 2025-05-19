@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Muebleria.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17ee5b475ee80bf3f9db2050764d1886e266442")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20060e864ebd1616a10421044108f029136f0a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Muebleria.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Muebleria.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
