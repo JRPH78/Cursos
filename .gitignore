@@ -1,0 +1,51 @@
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de build y publish
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+*.ncb
+*.sdf
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# Archivos temporales
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Paquetes
+packages/
+*.nupkg
+
+# Archivos de configuración que no deben subirse
+appsettings.Development.json
+secrets.json
+
+# Rider (JetBrains)
+.idea/
+
+# Copilot indices
+**/CopilotIndices/
+
+# Archivos de diseño de ventana
+*.Designer.cs
+
+# Archivos de backup de VS
+*.backup.json
+DocumentLayout.json
