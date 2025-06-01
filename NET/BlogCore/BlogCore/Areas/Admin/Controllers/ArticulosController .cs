@@ -11,9 +11,13 @@ namespace BlogCore.Areas.Admin.Controllers
     public class ArticulosController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
-        public ArticulosController(IContenedorTrabajo contenedorTrabajo)
+        private readonly IWebHostEnvironment _hostingEnvironment;
+        public ArticulosController(
+            IContenedorTrabajo contenedorTrabajo,
+            IWebHostEnvironment hostingEnvironment)
         {
             _contenedorTrabajo = contenedorTrabajo;
+            _hostingEnvironment = hostingEnvironment;
         }
 
         [HttpGet]
@@ -39,6 +43,8 @@ namespace BlogCore.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
+                string rutaPrincipal = _hostingEnvironment.WebRootPath;
+                string archivos = HttpContext.Request.Form.Files;
                 _contenedorTrabajo.Articulo.Add(articulo);
                 _contenedorTrabajo.Save();
                 return RedirectToAction("Index");
