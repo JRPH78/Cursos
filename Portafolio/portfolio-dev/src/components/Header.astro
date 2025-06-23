@@ -1,5 +1,10 @@
+
 <header
-  class="fixed top-0 z-10 flex items-center justify-center w-full mx-auto mt-3"
+  id="main-header"
+
+  class="fixed top-0 z-10 flex items-center justify-center w-full mx-auto mt-3 transition-colors duration-300 ease-in-out
+"
+
 >
   <nav
     class="flex px-3 text-sm font-medium rounded-full text-gray-200 justify-center items-center"
@@ -34,47 +39,40 @@
   </nav>
 </header>
 
-<script>
-  document.addEventListener("astro:page-load", () => {
-    const sections = document.querySelectorAll("section");
-    const navItems = document.querySelectorAll("header nav a");
+<script type="module">const initObserver = () => {
+  const sections = document.querySelectorAll("section");
+  const navItems = document.querySelectorAll("header nav a");
+  const header = document.getElementById("main-header");
 
-    const callback = (entries: any[]) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          navItems.forEach((item) => {
-            if (item.getAttribute("aria-label") == entry.target.id) {
-              item.classList.add("text-yellow-500");
-            } else {
-              item.classList.remove("text-yellow-500");
-            }
-          });
-        }
-      });
-    };
-
-    const observer = new IntersectionObserver(callback, {
-      root: null,
-      rootMargin: "0px",
-      threshold: 0.3,
-    });
-
-    sections.forEach((section) => {
-      observer.observe(section);
-    });
-
-    // Cleanup function
-    document.onvisibilitychange = () => {
-      if (document.visibilityState === "hidden") {
-        observer.disconnect();
-      } else {
-        sections.forEach((section) => {
-          observer.observe(section);
+  const callback = (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        navItems.forEach((item) => {
+          item.classList.toggle(
+            "text-yellow-500",
+            item.getAttribute("href") === `#${entry.target.id}`
+          );
         });
       }
-    };
+    });
+  };
+
+  const observer = new IntersectionObserver(callback, {
+    threshold: 0,
+    rootMargin: "-30% 0px -55% 0px", // nuevo ajuste más sensible
+
   });
-</script>
+
+  sections.forEach((section) => observer.observe(section));
+};
+
+document.addEventListener("astro:page-load", initObserver);
+document.addEventListener("DOMContentLoaded", initObserver);
+
+</script> 
+
+
+
 
 <style>
   nav {
@@ -83,9 +81,16 @@
     animation-range: 0 100px;
   }
 
+  nav {
+    @apply dark:bg-gray-800/90 bg-white/50;
+  }
+
   @keyframes nav-shadown {
+    0% {
+      @apply dark:bg-gray-800/0 bg-white/0;
+    }
     to {
-      @apply shadow-lg ring-1 backdrop-blur dark:bg-gray-800/90 bg-white/50 ring-white/10;
+      @apply shadow-lg ring-1 backdrop-blur ring-white/10;
     }
   }
 </style>

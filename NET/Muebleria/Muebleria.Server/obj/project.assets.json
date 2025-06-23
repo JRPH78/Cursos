@@ -210,7 +210,7 @@
           "buildMultiTargeting/Microsoft.AspNetCore.Identity.UI.targets": {}
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.16": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.17": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -3249,10 +3249,10 @@
         "staticwebassets/V5/lib/jquery/dist/jquery.min.map"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.16": {
-      "sha512": "epkhyVdorPlnTz3k839y9UkdaWYLA2I8NCZXCw9AbO4tSnpGrn7ufLv/oy5sl/gLCLHrEkhJX+VmiVN6im427w==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.17": {
+      "sha512": "2Z9U+Uejld4j+cKKfzgwQBYunmQsqCvrTNNjyTcg5i4BV+LEY72tEd49DECrJhbnvTVNNzpoU5UJr8cHaAbhZw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.16",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.17",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3260,7 +3260,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.16.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.17.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -8964,7 +8964,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafael\\.nuget\\packages\\": {},
+    "C:\\Users\\rafae\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -8973,14 +8973,14 @@
       "projectUniqueName": "C:\\Proyectos\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
       "projectName": "Muebleria.Server",
       "projectPath": "C:\\Proyectos\\Cursos\\NET\\Muebleria\\Muebleria.Server\\Muebleria.Server.csproj",
-      "packagesPath": "C:\\Users\\rafael\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
       "outputPath": "C:\\Proyectos\\Cursos\\NET\\Muebleria\\Muebleria.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9085,7 +9085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
