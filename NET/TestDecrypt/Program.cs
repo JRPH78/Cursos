@@ -56,7 +56,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string encrypted = "kbn/ji6m3SHxCplqeMyIbA==";
+        string encrypted = "";
         string decrypted = StringCipher.Instance.Decrypt(encrypted);
 
         Console.WriteLine($"🔓 Contraseña desencriptada: {decrypted}");
