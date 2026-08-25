@@ -13,7 +13,7 @@ public class StringCipher
 
     private readonly byte[] InitVectorBytes;
     private const int Keysize = 256;
-
+   
     static StringCipher()
     {
         DefaultPassPhrase = "R2y3N54Av6vgy866";
@@ -56,9 +56,74 @@ class Program
 {
     static void Main(string[] args)
     {
-        string encrypted = "";
+        string encrypted = "4UyG06RhVVsyuD+mGwGR1Q==";
         string decrypted = StringCipher.Instance.Decrypt(encrypted);
+        string nueva = new Contrasenas().Generar();
 
+
+        Console.WriteLine($"nueva contra {nueva}");
+        Console.WriteLine($"🔓 Contraseña Encryptada: {encrypted}");
         Console.WriteLine($"🔓 Contraseña desencriptada: {decrypted}");
+    }
+}
+
+public class OpcionesContrasena
+{
+    public int LonguitudMinima { get; set; }
+    public int CaracteresUnicosRequeridos { get; set; }
+    public bool DigitoRequerido { get; set; }
+    public bool MinusculaRequerida { get; set; }
+    public bool CaracterEspecialRequerido { get; set; }
+    public bool MayusculaRequerida { get; set; }
+}
+public class Contrasenas
+{
+    public string Generar(OpcionesContrasena opts = null)
+    {
+        if (opts == null) opts = new OpcionesContrasena()
+        {
+            LonguitudMinima = 8,
+            CaracteresUnicosRequeridos = 4,
+            DigitoRequerido = true,
+            MinusculaRequerida = true,
+            CaracterEspecialRequerido = true,
+            MayusculaRequerida = true
+        };
+
+        string[] randomChars = new[] {
+                    "ABCDEFGHJKLMNOPQRSTUVWXYZ",    // uppercase 
+                    "abcdefghijkmnopqrstuvwxyz",    // lowercase
+                    "0123456789",                   // digits
+                    "!@$?_-"                        // non-alphanumeric
+                };
+
+        Random rand = new Random(Environment.TickCount);
+        List<char> chars = new List<char>();
+
+        if (opts.MayusculaRequerida)
+            chars.Insert(rand.Next(0, chars.Count),
+                randomChars[0][rand.Next(0, randomChars[0].Length)]);
+
+        if (opts.MinusculaRequerida)
+            chars.Insert(rand.Next(0, chars.Count),
+                randomChars[1][rand.Next(0, randomChars[1].Length)]);
+
+        if (opts.DigitoRequerido)
+            chars.Insert(rand.Next(0, chars.Count),
+                randomChars[2][rand.Next(0, randomChars[2].Length)]);
+
+        if (opts.CaracterEspecialRequerido)
+            chars.Insert(rand.Next(0, chars.Count),
+                randomChars[3][rand.Next(0, randomChars[3].Length)]);
+
+        for (int i = chars.Count; i < opts.LonguitudMinima
+            || chars.Distinct().Count() < opts.CaracteresUnicosRequeridos; i++)
+        {
+            string rcs = randomChars[rand.Next(0, randomChars.Length)];
+            chars.Insert(rand.Next(0, chars.Count),
+                rcs[rand.Next(0, rcs.Length)]);
+        }
+
+        return new string(chars.ToArray());
     }
 }

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Flipper WiFi OS</title>
+  </head>
+  <body>
+    <h1>FLIPPER WIFI OS</h1>
+    <div id="devices"></div>
+
+    <script>
+      setInterval(() => {
+        fetch("/devices")
+          .then((r) => r.json())
+          .then((d) => {
+            document.getElementById("devices").innerHTML = JSON.stringify(d, null, 2);
+          });
+      }, 2000);
+    </script>
+  </body>
+</html>

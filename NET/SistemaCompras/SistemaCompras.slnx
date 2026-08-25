@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="sistemacompras.client/sistemacompras.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SistemaCompras.Server/SistemaCompras.Server.csproj" />
+</Solution>
